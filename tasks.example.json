@@ -1,0 +1,17 @@
+[
+  {
+    "task": "Review the weekly priorities",
+    "status": "Pending",
+    "priority": 5
+  },
+  {
+    "task": "Plan the next project milestone",
+    "status": "Started",
+    "priority": 7
+  },
+  {
+    "task": "Organize notes from the last meeting",
+    "status": "Completed",
+    "priority": 3
+  }
+]
